@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App component header text 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1>
+      Users
+    </h1>
+    <input
+      class="input-box"
+      placeholder="Search users"
+      type="text"
+      value=""
+    />
+    <div
+      class="flex"
+    />
+  </div>
+</div>
+`;
